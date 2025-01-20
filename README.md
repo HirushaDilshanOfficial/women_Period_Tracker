@@ -120,4 +120,4 @@ Whether you’re tracking your cycles, engaging with the community, or simply le
 
 ### Get Involved!
 
-**Open Source**: FemCare is open-source and can be customized and extended by developers. Contribute to the project on [GitHub](https://github.com/your-repository-link).
+**Open Source**: FemCare is open-source and can be customized and extended by developers. Contribute to the project on [GitHub](https://github.com/HirushaDilshanOfficial/women_Period_Tracker).
